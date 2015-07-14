@@ -38,6 +38,11 @@ html {
     }
 }
 
+.popover {
+    width: 276px;
+    height: 148px;
+}
+
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
 of those sections to manage the look and feel of the site. */
@@ -76,7 +81,7 @@ of those sections to manage the look and feel of the site. */
   width: 30px;
   height: 30px;
   text-align: center;
-  padding: 0.25px;
+  padding: 0.50px;
   font-size: 1.50em;
   line-height: 1.42;
   border-radius: 15px;
