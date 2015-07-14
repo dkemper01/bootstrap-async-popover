@@ -39,6 +39,10 @@ You also need ```function (fetchedData) {
 
 [Demo Site](http://bootstrapasyncpopover.apphb.com/ "Bootstrap Async Popover Demo") 
 
+## Gist
+
+[Gist](https://gist.github.com/dkemper01/0e8e386ae1bbb658a404 "Bootstrap Async Popover Gist")
+
 ## Contributing
 
 1. Fork it!
