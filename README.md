@@ -1,4 +1,4 @@
-# Project Name
+# Bootstrap v3.3.5 Async Popover Extension
 
 Fully compatible with the latest version of bootstrap!  An async popover control in which no content is loaded until the user requests it by hovering, clicking, etc. Then, it is loaded asynchronously.
 
